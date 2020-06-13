@@ -23,3 +23,4 @@ plt.title('需求线形图')
 plt.show()
 
 @timer 
+print('hello word!')
