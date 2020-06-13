@@ -21,3 +21,5 @@ plt.xlabel('x轴')
 plt.ylabel('y轴')
 plt.title('需求线形图')
 plt.show()
+
+@timer 
