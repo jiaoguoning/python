@@ -16,6 +16,8 @@ print('我在本地仓库做了更改')
 b = np.array([1,2,3,4,5,6])
 y = b * 0.89 
 
+plt.bar(b, y )
+Put.show()
 plt.plot(b, y, 'r--', linewidth=3)
 plt.xlabel('x轴')
 plt.ylabel('y轴')
